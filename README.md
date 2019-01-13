@@ -11,3 +11,5 @@ Basically, two types of information were collected;
 2. Second, the number and details of the products used by customers in the bank. (Ex., Total Products Used, Credit Card Use, Credit Usage etc.)
 
 The description and coding of each variable is described in more detail in the following sections.
+
+Note: Due to datasets for this study belong to a real bank data, they are not published.

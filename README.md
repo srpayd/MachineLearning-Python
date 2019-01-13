@@ -12,4 +12,4 @@ Basically, two types of information were collected;
 
 The description and coding of each variable is described in more detail in the following sections.
 
-**Note: Due to datasets for this study belong to a real bank data, they are not published.
+*Note: Due to datasets for this study belong to a real bank data, they are not published.

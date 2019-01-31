@@ -12,4 +12,4 @@ Basically, two types of information were collected;
 
 The description and coding of each variable is described in more detail in the following sections.
 
-*Note: Datasets for this study are not allowed to published.
+*Note: The datasets are restricted for this study.

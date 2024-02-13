@@ -1,4 +1,4 @@
-# Machine-Learning-at-Python
+# Machine-Learning-with-Python
 
 The relevant dataset represents the demographic and local financial information of existing customers in a specific region of a bank.The data set consists of 23,000 observations from 35 different variables.
 
